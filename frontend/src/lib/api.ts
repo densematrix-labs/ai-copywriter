@@ -1,6 +1,6 @@
 import { getDeviceId } from './fingerprint'
 
-const API_BASE = import.meta.env.PROD ? '' : ''
+const API_BASE = ''
 
 export interface CopyVariation {
   id: number

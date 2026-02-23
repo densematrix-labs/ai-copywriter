@@ -163,7 +163,7 @@ export default function HomePage() {
           {/* Generate Button */}
           <button
             onClick={handleGenerate}
-            disabled={loading || !topic.trim() || (status && !status.can_generate)}
+            disabled={loading || !topic.trim() || (status !== null && !status.can_generate)}
             className="btn btn-primary w-full text-lg py-4 disabled:opacity-50 disabled:cursor-not-allowed"
             data-testid="generate-btn"
           >
