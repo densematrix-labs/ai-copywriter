@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI コピーライター",
+    "tagline": "無料 Copy.ai 代替ツール",
+    "description": "マーケティングコピー、広告テキスト、製品説明を数秒で生成"
+  },
+  "nav": {
+    "home": "ホーム",
+    "pricing": "料金",
+    "about": "概要"
+  },
+  "hero": {
+    "title": "売れるコピーを書く",
+    "subtitle": "マーケター、起業家、クリエイターのためのAIコピーライティングツール。登録不要。",
+    "cta": "無料で始める",
+    "trusted": "10,000人以上が利用中"
+  },
+  "copyTypes": {
+    "marketing": "マーケティングコピー",
+    "product": "商品説明",
+    "ad": "広告コピー",
+    "email": "メール件名",
+    "social": "SNS投稿",
+    "blog": "ブログ導入文"
+  },
+  "generator": {
+    "selectType": "何を作成しますか？",
+    "topic": "製品やトピックを説明してください",
+    "topicPlaceholder": "例：海洋プラスチックをリサイクルして作ったサステナブルな水筒",
+    "tone": "トーン",
+    "tones": {
+      "professional": "プロフェッショナル",
+      "casual": "カジュアル",
+      "humorous": "ユーモラス",
+      "urgent": "緊急",
+      "luxury": "ラグジュアリー"
+    },
+    "variations": "バリエーション",
+    "generate": "コピーを生成",
+    "generating": "生成中...",
+    "results": "生成結果",
+    "copy": "コピー",
+    "copied": "コピーしました！",
+    "regenerate": "再生成"
+  },
+  "status": {
+    "remaining": "残り {{count}} 回",
+    "freeTrial": "無料トライアル",
+    "unlimited": "無制限"
+  },
+  "pricing": {
+    "title": "シンプルで透明な料金",
+    "subtitle": "従量課金。サブスクリプション不要。",
+    "popular": "人気",
+    "generations": "{{count}} 回生成",
+    "perGeneration": "{{price}}/回",
+    "buy": "購入する",
+    "features": {
+      "noExpiry": "有効期限なし",
+      "allTypes": "全コピータイプ",
+      "languages": "7言語対応",
+      "support": "優先サポート"
+    }
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "by": "by DenseMatrix",
+    "privacy": "プライバシー",
+    "terms": "利用規約"
+  },
+  "errors": {
+    "noCredits": "生成回数が不足しています。パックを購入してください。",
+    "failed": "生成に失敗しました。もう一度お試しください。",
+    "network": "ネットワークエラー。接続を確認してください。"
+  },
+  "paymentSuccess": {
+    "title": "お支払い完了！",
+    "description": "生成回数がアカウントに追加されました。",
+    "generations": "{{count}} 回追加されました",
+    "continue": "作成を開始"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI Copywriter",
+    "tagline": "Free Copy.ai Alternative",
+    "description": "Generate compelling marketing copy, ad text, and product descriptions in seconds"
+  },
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Write Copy That Converts",
+    "subtitle": "AI-powered copywriting for marketers, entrepreneurs, and creators. No signup required.",
+    "cta": "Start Writing Free",
+    "trusted": "Trusted by 10,000+ users"
+  },
+  "copyTypes": {
+    "marketing": "Marketing Copy",
+    "product": "Product Description",
+    "ad": "Ad Copy",
+    "email": "Email Subject",
+    "social": "Social Media",
+    "blog": "Blog Intro"
+  },
+  "generator": {
+    "selectType": "What do you want to create?",
+    "topic": "Describe your product or topic",
+    "topicPlaceholder": "e.g., A sustainable water bottle made from recycled ocean plastic",
+    "tone": "Tone",
+    "tones": {
+      "professional": "Professional",
+      "casual": "Casual",
+      "humorous": "Humorous",
+      "urgent": "Urgent",
+      "luxury": "Luxury"
+    },
+    "variations": "Variations",
+    "generate": "Generate Copy",
+    "generating": "Generating...",
+    "results": "Your Copy",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "regenerate": "Generate More"
+  },
+  "status": {
+    "remaining": "{{count}} generations remaining",
+    "freeTrial": "Free trial",
+    "unlimited": "Unlimited"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Pay as you go. No subscriptions.",
+    "popular": "Most Popular",
+    "generations": "{{count}} generations",
+    "perGeneration": "{{price}}/generation",
+    "buy": "Buy Now",
+    "features": {
+      "noExpiry": "Never expires",
+      "allTypes": "All copy types",
+      "languages": "7 languages",
+      "support": "Priority support"
+    }
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "by": "by DenseMatrix",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "errors": {
+    "noCredits": "No generations remaining. Please purchase a pack to continue.",
+    "failed": "Generation failed. Please try again.",
+    "network": "Network error. Please check your connection."
+  },
+  "paymentSuccess": {
+    "title": "Payment Successful!",
+    "description": "Your generations have been added to your account.",
+    "generations": "{{count}} generations added",
+    "continue": "Start Creating"
+  }
+}

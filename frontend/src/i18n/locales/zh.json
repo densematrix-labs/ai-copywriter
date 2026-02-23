@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI 文案助手",
+    "tagline": "免费 Copy.ai 替代品",
+    "description": "几秒钟内生成引人注目的营销文案、广告文本和产品描述"
+  },
+  "nav": {
+    "home": "首页",
+    "pricing": "定价",
+    "about": "关于"
+  },
+  "hero": {
+    "title": "写出高转化的文案",
+    "subtitle": "为营销人员、创业者和创作者打造的 AI 文案工具。无需注册。",
+    "cta": "免费开始创作",
+    "trusted": "已有 10,000+ 用户信赖"
+  },
+  "copyTypes": {
+    "marketing": "营销文案",
+    "product": "产品描述",
+    "ad": "广告文案",
+    "email": "邮件标题",
+    "social": "社交媒体",
+    "blog": "博客开头"
+  },
+  "generator": {
+    "selectType": "你想创建什么？",
+    "topic": "描述你的产品或主题",
+    "topicPlaceholder": "例如：一款用回收海洋塑料制成的环保水杯",
+    "tone": "语气",
+    "tones": {
+      "professional": "专业",
+      "casual": "轻松",
+      "humorous": "幽默",
+      "urgent": "紧迫",
+      "luxury": "奢华"
+    },
+    "variations": "变体数量",
+    "generate": "生成文案",
+    "generating": "生成中...",
+    "results": "你的文案",
+    "copy": "复制",
+    "copied": "已复制！",
+    "regenerate": "再次生成"
+  },
+  "status": {
+    "remaining": "剩余 {{count}} 次生成",
+    "freeTrial": "免费试用",
+    "unlimited": "无限"
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "按需付费，无需订阅。",
+    "popular": "最受欢迎",
+    "generations": "{{count}} 次生成",
+    "perGeneration": "{{price}}/次",
+    "buy": "立即购买",
+    "features": {
+      "noExpiry": "永不过期",
+      "allTypes": "所有文案类型",
+      "languages": "7 种语言",
+      "support": "优先支持"
+    }
+  },
+  "footer": {
+    "madeWith": "用",
+    "by": "制作，来自 DenseMatrix",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "errors": {
+    "noCredits": "生成次数已用完。请购买套餐继续使用。",
+    "failed": "生成失败，请重试。",
+    "network": "网络错误，请检查网络连接。"
+  },
+  "paymentSuccess": {
+    "title": "支付成功！",
+    "description": "生成次数已添加到您的账户。",
+    "generations": "已添加 {{count}} 次生成",
+    "continue": "开始创作"
+  }
+}

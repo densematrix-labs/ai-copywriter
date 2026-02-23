@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI Copywriter",
+    "tagline": "Kostenlose Copy.ai Alternative",
+    "description": "Erstellen Sie überzeugende Marketingtexte, Werbetexte und Produktbeschreibungen in Sekunden"
+  },
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise",
+    "about": "Über uns"
+  },
+  "hero": {
+    "title": "Texte, die konvertieren",
+    "subtitle": "KI-gestütztes Copywriting für Marketer, Unternehmer und Creator. Keine Anmeldung erforderlich.",
+    "cta": "Kostenlos starten",
+    "trusted": "Von 10.000+ Nutzern vertraut"
+  },
+  "copyTypes": {
+    "marketing": "Marketing-Text",
+    "product": "Produktbeschreibung",
+    "ad": "Werbetext",
+    "email": "E-Mail-Betreff",
+    "social": "Social Media",
+    "blog": "Blog-Einleitung"
+  },
+  "generator": {
+    "selectType": "Was möchten Sie erstellen?",
+    "topic": "Beschreiben Sie Ihr Produkt oder Thema",
+    "topicPlaceholder": "z.B. Eine nachhaltige Wasserflasche aus recyceltem Ozeanplastik",
+    "tone": "Tonfall",
+    "tones": {
+      "professional": "Professionell",
+      "casual": "Locker",
+      "humorous": "Humorvoll",
+      "urgent": "Dringend",
+      "luxury": "Luxuriös"
+    },
+    "variations": "Varianten",
+    "generate": "Text generieren",
+    "generating": "Wird generiert...",
+    "results": "Ihr Text",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "regenerate": "Neu generieren"
+  },
+  "status": {
+    "remaining": "{{count}} Generierungen übrig",
+    "freeTrial": "Kostenlose Testversion",
+    "unlimited": "Unbegrenzt"
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preise",
+    "subtitle": "Zahlen Sie nach Bedarf. Keine Abonnements.",
+    "popular": "Beliebteste",
+    "generations": "{{count}} Generierungen",
+    "perGeneration": "{{price}}/Generierung",
+    "buy": "Jetzt kaufen",
+    "features": {
+      "noExpiry": "Läuft nie ab",
+      "allTypes": "Alle Texttypen",
+      "languages": "7 Sprachen",
+      "support": "Prioritäts-Support"
+    }
+  },
+  "footer": {
+    "madeWith": "Erstellt mit",
+    "by": "von DenseMatrix",
+    "privacy": "Datenschutz",
+    "terms": "AGB"
+  },
+  "errors": {
+    "noCredits": "Keine Generierungen mehr übrig. Bitte kaufen Sie ein Paket.",
+    "failed": "Generierung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "network": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung."
+  },
+  "paymentSuccess": {
+    "title": "Zahlung erfolgreich!",
+    "description": "Ihre Generierungen wurden Ihrem Konto gutgeschrieben.",
+    "generations": "{{count}} Generierungen hinzugefügt",
+    "continue": "Jetzt loslegen"
+  }
+}

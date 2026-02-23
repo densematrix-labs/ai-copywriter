@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI Copywriter",
+    "tagline": "Alternative gratuite à Copy.ai",
+    "description": "Générez des textes marketing, publicitaires et descriptions produits convaincants en quelques secondes"
+  },
+  "nav": {
+    "home": "Accueil",
+    "pricing": "Tarifs",
+    "about": "À propos"
+  },
+  "hero": {
+    "title": "Des textes qui convertissent",
+    "subtitle": "Rédaction IA pour marketeurs, entrepreneurs et créateurs. Aucune inscription requise.",
+    "cta": "Commencer gratuitement",
+    "trusted": "Plus de 10 000 utilisateurs"
+  },
+  "copyTypes": {
+    "marketing": "Texte marketing",
+    "product": "Description produit",
+    "ad": "Texte publicitaire",
+    "email": "Objet d'e-mail",
+    "social": "Réseaux sociaux",
+    "blog": "Intro de blog"
+  },
+  "generator": {
+    "selectType": "Que voulez-vous créer ?",
+    "topic": "Décrivez votre produit ou sujet",
+    "topicPlaceholder": "ex. Une gourde durable fabriquée à partir de plastique océanique recyclé",
+    "tone": "Ton",
+    "tones": {
+      "professional": "Professionnel",
+      "casual": "Décontracté",
+      "humorous": "Humoristique",
+      "urgent": "Urgent",
+      "luxury": "Luxueux"
+    },
+    "variations": "Variations",
+    "generate": "Générer le texte",
+    "generating": "Génération...",
+    "results": "Votre texte",
+    "copy": "Copier",
+    "copied": "Copié !",
+    "regenerate": "Régénérer"
+  },
+  "status": {
+    "remaining": "{{count}} générations restantes",
+    "freeTrial": "Essai gratuit",
+    "unlimited": "Illimité"
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Payez à l'usage. Sans abonnement.",
+    "popular": "Le plus populaire",
+    "generations": "{{count}} générations",
+    "perGeneration": "{{price}}/génération",
+    "buy": "Acheter",
+    "features": {
+      "noExpiry": "Sans expiration",
+      "allTypes": "Tous les types de textes",
+      "languages": "7 langues",
+      "support": "Support prioritaire"
+    }
+  },
+  "footer": {
+    "madeWith": "Fait avec",
+    "by": "par DenseMatrix",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "errors": {
+    "noCredits": "Plus de générations disponibles. Veuillez acheter un pack.",
+    "failed": "Échec de la génération. Veuillez réessayer.",
+    "network": "Erreur réseau. Vérifiez votre connexion."
+  },
+  "paymentSuccess": {
+    "title": "Paiement réussi !",
+    "description": "Vos générations ont été ajoutées à votre compte.",
+    "generations": "{{count}} générations ajoutées",
+    "continue": "Commencer à créer"
+  }
+}

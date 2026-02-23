@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "AI 카피라이터",
+    "tagline": "무료 Copy.ai 대안",
+    "description": "몇 초 만에 마케팅 카피, 광고 텍스트, 제품 설명을 생성하세요"
+  },
+  "nav": {
+    "home": "홈",
+    "pricing": "가격",
+    "about": "소개"
+  },
+  "hero": {
+    "title": "전환을 이끄는 카피 작성",
+    "subtitle": "마케터, 기업가, 크리에이터를 위한 AI 카피라이팅 도구. 가입 불필요.",
+    "cta": "무료로 시작하기",
+    "trusted": "10,000명 이상의 사용자"
+  },
+  "copyTypes": {
+    "marketing": "마케팅 카피",
+    "product": "제품 설명",
+    "ad": "광고 카피",
+    "email": "이메일 제목",
+    "social": "소셜 미디어",
+    "blog": "블로그 인트로"
+  },
+  "generator": {
+    "selectType": "무엇을 만들고 싶으신가요?",
+    "topic": "제품이나 주제를 설명해주세요",
+    "topicPlaceholder": "예: 재활용 해양 플라스틱으로 만든 친환경 물병",
+    "tone": "톤",
+    "tones": {
+      "professional": "전문적",
+      "casual": "캐주얼",
+      "humorous": "유머러스",
+      "urgent": "긴급",
+      "luxury": "럭셔리"
+    },
+    "variations": "변형",
+    "generate": "카피 생성",
+    "generating": "생성 중...",
+    "results": "생성된 카피",
+    "copy": "복사",
+    "copied": "복사됨!",
+    "regenerate": "다시 생성"
+  },
+  "status": {
+    "remaining": "{{count}}회 생성 남음",
+    "freeTrial": "무료 체험",
+    "unlimited": "무제한"
+  },
+  "pricing": {
+    "title": "간단하고 투명한 가격",
+    "subtitle": "사용한 만큼 지불. 구독 없음.",
+    "popular": "인기",
+    "generations": "{{count}}회 생성",
+    "perGeneration": "{{price}}/회",
+    "buy": "구매하기",
+    "features": {
+      "noExpiry": "만료 없음",
+      "allTypes": "모든 카피 유형",
+      "languages": "7개 언어",
+      "support": "우선 지원"
+    }
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "by": "by DenseMatrix",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관"
+  },
+  "errors": {
+    "noCredits": "생성 횟수가 소진되었습니다. 패키지를 구매해주세요.",
+    "failed": "생성에 실패했습니다. 다시 시도해주세요.",
+    "network": "네트워크 오류. 연결을 확인해주세요."
+  },
+  "paymentSuccess": {
+    "title": "결제 완료!",
+    "description": "생성 횟수가 계정에 추가되었습니다.",
+    "generations": "{{count}}회 생성 추가됨",
+    "continue": "시작하기"
+  }
+}
